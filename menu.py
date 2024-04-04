@@ -1,0 +1,7 @@
+title = "menu".upper()
+print(title.center(20, "="))
+print("Coffe" .ljust(16,".") + "$1".rjust(4))
+print("Muffin" .ljust(16,".") + "$5".rjust(4))
+print("Tea" .ljust(16,".") + "$1.5".rjust(4))
+print("Hot Chockolate" .ljust(16,".") + "$1".rjust(4))
+print("Coffe Latte" .ljust(16,".") + "$3".rjust(4))
